@@ -1,2 +1,2 @@
-# ethers-simple-storage-fcc
-Lesson 5
+# hardhat-simple-storage-fcc
+Lesson 6
